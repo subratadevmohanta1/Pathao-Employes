@@ -128,3 +128,24 @@ section {
     display: flex;
     border-radius: 50%;
 }
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.coppyright {
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: #262626;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.coppyright i {
+    color: #ff004f;
+}
